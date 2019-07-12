@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "noEmitOnError": true,
+        //"lib": ["es5", "dom", "es2015.collection"]   
+        "module": "commonjs"
+    }
+}

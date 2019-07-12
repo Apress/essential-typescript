@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "declaration": true,
+        "strictNullChecks": true,
+        "noImplicitReturns": true        
+        
+    }
+}
