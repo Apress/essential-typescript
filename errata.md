@@ -1,4 +1,4 @@
-# Errata for *Book Title*
+# Errata for *Essential Typescript*
 
 On **page xx** [Summary of error]:
  
